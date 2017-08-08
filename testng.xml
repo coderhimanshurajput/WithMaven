@@ -3,8 +3,6 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-      <class name="registration.FacebookPage3"/>
-      <class name="registration.FacebookPage2"/>
       <class name="registration.FacebookPage"/>
     </classes>
   </test> <!-- Test -->
